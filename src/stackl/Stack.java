@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author DIEGO
+ * @author Juanita
  */
 public class Stack<Item> implements Iterable<Item> {
 

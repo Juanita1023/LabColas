@@ -7,7 +7,7 @@ package stackl;
 
 /**
  *
- * @author USUARIO
+ * @author Juanita
  */
 public class StackL {
 

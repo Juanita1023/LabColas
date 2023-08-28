@@ -8,7 +8,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author USUARIO
+ * @author Juanita
  */
 public class Queue <Item>implements Iterable<Item> {
     //Atributos
